@@ -1,6 +1,5 @@
-# This file configures the Next.js application for production deployment
+// This file configures the Next.js application for production deployment
 
-/** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
